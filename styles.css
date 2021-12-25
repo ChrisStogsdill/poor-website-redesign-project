@@ -1,0 +1,15 @@
+#carousel-container {
+    max-width: 1000px;
+}
+
+.google-map {
+    width: 100%;
+}
+
+.store-location-outer {
+    gap: 1em;
+}
+
+.store-hours-table {
+    min-width: fit-content;
+}
