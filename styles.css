@@ -1,3 +1,7 @@
+* {
+    font-family: 'Noto Sans', serif;
+}
+
 #carousel-container {
     max-width: 1000px;
 }
@@ -13,3 +17,4 @@
 .store-hours-table {
     min-width: fit-content;
 }
+
